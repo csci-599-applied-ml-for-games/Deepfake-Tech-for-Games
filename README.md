@@ -2,6 +2,10 @@
 
 We create a Document branch for all documents.
 
+  - Website : https://zhangmengyuhi.wixsite.com/talkinghead
+  
+  - Final PPT : https://drive.google.com/uc?id=16Kb8sybh_we2ar_QqSmCFtopdX2OWHM5&export=download
+
   - Final Report: https://github.com/csci-599-applied-ml-for-games/Deepfake-Tech-for-Games/blob/Documents/CSCI%20599%20Technical%20Paper.pdf
    
   - EDD : https://github.com/csci-599-applied-ml-for-games/Deepfake-Tech-for-Games/blob/Documents/CSCI599_%20TalkingHead_EDD.pdf
